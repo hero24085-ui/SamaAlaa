@@ -291,7 +291,7 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain; /* Prevents frame cropping */
-    background-image: url(../pics/frame2.png);
+    background-image: url(frame2.png);
     
     width: 380px; /* Keeps frame proportionally shaped */
     height: 420px; /* Vertical room inside the frame */
