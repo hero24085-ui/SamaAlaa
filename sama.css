@@ -295,7 +295,7 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain; 
-    background-image: url(../pics/frame2.png);
+    background-image: url(frame2.png);
     
     /* Responsive sizing rules for mobile */
     max-width: 380px; 
